@@ -1,0 +1,44 @@
+# Object Detection
+    1) Vehicles
+        a) Vehicle Description
+        b) Simplified LLM Models describing vehicle.
+    2) Potholes
+        a) Speed Regulator signal.
+        b) Populating them in google map.
+        c) Option to remove them once they are removed.
+    3) Signals
+        a) Read and Make control signals
+        b) Populating the locations in map or in system.
+    4) Pedestrians and Animals
+    5) Track
+    6) Vehicle speed calculation and accelerometer.
+
+# Banking Curve and Safe Speed prediction
+
+# License Plates
+    1) Location mapping of license plates
+    2) Save the image of the vehicle in compressed format for transfer
+    3) Finding Out people in Car
+        a) Cross checking with Owner face
+        b) Number of people
+
+# ADAS
+# Collision Warning
+# Vehicle to vehicle communication.
+    1) AI based communication.
+# Autonomous Vehicle
+
+# DATA SAVING MECHANISM
+    1) Vehicle
+        a) License number
+        b) Vehicle description
+        c) Location
+        d) Direction
+        e) Speed
+        f) Person
+        g) Date-Time
+
+    2) Human face
+        a) Face Description
+        b) Date-Time
+        c) Location
