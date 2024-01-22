@@ -12,6 +12,7 @@
     4) Pedestrians and Animals
     5) Track
     6) Vehicle speed calculation and accelerometer.
+    7) Lane Detection
 
 # Banking Curve and Safe Speed prediction
 
@@ -21,6 +22,10 @@
     3) Finding Out people in Car
         a) Cross checking with Owner face
         b) Number of people
+# ROI
+    1) ROI Adjustments
+    2) 3 Sets
+    3) Encroachment
 
 # ADAS
 # Collision Warning
@@ -29,16 +34,25 @@
 # Autonomous Vehicle
 
 # DATA SAVING MECHANISM
-    1) Vehicle
-        a) License number
-        b) Vehicle description
-        c) Location
-        d) Direction
-        e) Speed
-        f) Person
-        g) Date-Time
+    A) Approach 1
+        1) Vehicle
+            a) License number
+            b) Vehicle description
+            c) Location
+            d) Direction
+            e) Speed
+            f) Person
+            g) Date-Time
 
-    2) Human face
-        a) Face Description
-        b) Date-Time
-        c) Location
+        2) Human face
+            a) Face Description
+            b) Date-Time
+            c) Location
+    B) Approach 2
+        1) map_location
+            {
+            "location" :
+            "Description":
+            "Faces ID":
+            "Number Plates":
+            }
